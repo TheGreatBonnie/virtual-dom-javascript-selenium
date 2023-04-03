@@ -7,7 +7,7 @@ const update = () => {
   const Element = (
     <>
       <h3>Real DOM Vs Virtual DOM</h3>
-      <span>Time: {new Date().toLocaleTimeString()}</span>
+      <span id="time">Time: {new Date().toLocaleTimeString()}</span>
     </>
   );
   
