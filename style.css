@@ -9,7 +9,7 @@
     background-color: black;
   }
 
-  #time {
+  #time, #time1, #time2, #time3 {
     display: block;
     margin-bottom: 10px;
     text-align: center;
