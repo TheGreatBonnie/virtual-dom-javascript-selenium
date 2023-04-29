@@ -1,5 +1,16 @@
 #root {
-    color: #222;
+    color: white;
     text-align: center;
     font-size: 2rem;
+    
+  }
+
+  body {
+    background-color: black;
+  }
+
+  #time {
+    display: block;
+    margin-bottom: 10px;
+    text-align: center;
   }
