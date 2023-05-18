@@ -1,16 +1,18 @@
 #root {
-    color: white;
-    text-align: center;
-    font-size: 2rem;
-    
-  }
+  color: white;
+  text-align: center;
+  font-size: 2rem;
+}
 
-  body {
-    background-color: black;
-  }
+body {
+  background-color: #0ebac5;
+}
 
-  #time, #time1, #time2, #time3 {
-    display: block;
-    margin-bottom: 10px;
-    text-align: center;
-  }
+#time,
+#time1,
+#time2,
+#time3 {
+  display: block;
+  margin-bottom: 10px;
+  text-align: center;
+}
